@@ -69,4 +69,15 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣙⣲⢤⣀⡠⢾⣛⡁⠀⠀⠀⠀
 
 
+
+---
+
+Thanks for dropping by! 🌟  
+If you're into tech, anime, or just wanna geek out — let's connect!
+
+> “Stay curious, keep building, and never stop learning.”
+
+---
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
