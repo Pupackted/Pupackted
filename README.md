@@ -2,7 +2,7 @@
 
 
 
-## 🛠️ Tech Stack
+## I do these stuff maybe
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
