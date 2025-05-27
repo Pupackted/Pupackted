@@ -72,10 +72,9 @@
 
 ---
 
-Thanks for dropping by! 🌟  
-If you're into tech, anime, or just wanna geek out — let's connect!
+Yeah i dont know what to say
 
-> “Stay curious, keep building, and never stop learning.”
+> “There is always a tung tung in your sahur”
 
 ---
 
