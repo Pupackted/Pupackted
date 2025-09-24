@@ -1,8 +1,8 @@
-#  Its ye boi Pupackted
+#  Its ye boi Adrian
 
 
 
-## I do these stuff maybe
+## I do these stuff
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -76,7 +76,7 @@
 
 ---
 
-> “There is always a tung tung tung in your sahur”
+> I'm Always Learning
 
 
 
