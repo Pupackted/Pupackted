@@ -1,7 +1,5 @@
 #  Its ye boi Adrian
 
-
-
 ## I do these stuff
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -11,15 +9,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
-
-
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
-
 > I'm Always Learning
-
-
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
